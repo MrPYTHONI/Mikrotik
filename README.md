@@ -259,15 +259,21 @@ WiFi.py
    ```bash
    cd Mikrotik
    ```
-
-   ```bash
-   Mikrotik.py
+```bash
+pip install -r requirements.txt
 ```
 
+```bash
+Mikrotik.py
+```
 
 ```bash
 WiFi.py
 ```
+
+
+
+
 ابوقريش الصنعاني🏴‍☠️
 
 مبرمج ادوات ومكتشف ثغرات نت مجاني خبيث 💀
@@ -277,14 +283,25 @@ WiFi.py
 
 
 Mr 📱 حـسـاباتـنا الرسـمـية  😇
+
 https://mrpython3.carrd.co/
+
 ...𝐌r𝐏𝐘𝐓𝐇𝐎𝐍 🕷️🖤...
+
 ♟Telegram♟ 
+
 https://t.me/SECRET1NET
+
 ➖➖➖➖➖➖➖➖➖➖
+
 ♟You Tube♟
+
 https://youtube.com/@mr_python3?si=Dww-3-F5j3mtB-J_
+
 ➖➖➖➖➖➖➖➖➖➖
+
 ♟Instagram♟
+
 https://www.instagram.com/mr_python_fpi?igsh=ZnlyZGd6emJsMG03
+
 ➖➖➖➖➖➖➖➖➖➖
