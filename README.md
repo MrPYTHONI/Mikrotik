@@ -251,24 +251,23 @@ WiFi.py
 ### كيفية الاستخدام:
 
 1. **تحميل الأداة:**
-
-   ```bash
+ ```bash
    git clone https://github.com/MrPYTHONI/Mikrotik.git
    ```
-   
-   ```bash
+```bash
    cd Mikrotik
    ```
+
 ```bash
-pip install -r requirements.txt
+    pip install -r requirements.txt
 ```
 
 ```bash
-Mikrotik.py
+    Mikrotik.py
 ```
 
 ```bash
-WiFi.py
+    WiFi.py
 ```
 
 
