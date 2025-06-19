@@ -1,3 +1,7 @@
 requests
-beautifulsoup4
 netifaces
+beautifulsoup4 
+colorama
+urllib3
+setuptools
+wheel
